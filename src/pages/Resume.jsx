@@ -282,7 +282,7 @@ export default function Resume() {
           }}
         >
           <iframe
-            src="/resume.pdf"
+            src="/PremSagar_K_Developer_Resume.pdf"
             title="Prem Sagar Resume"
             style={{
               width: "100%",
@@ -296,7 +296,7 @@ export default function Resume() {
 
         {/* Download Button */}
         <motion.a
-          href="/resume.pdf"
+          href="/PremSagar_K_Developer_Resume.pdf"
           download
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
